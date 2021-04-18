@@ -1,6 +1,6 @@
 # Landing Page Project
 
-Landing page is the conversion of a static page to a page that allows some sort of interaction. The dynamicity is achieved through javascript.
+Landing page is the conversion of a static page to a page that allows some sort of interaction.<br> The dynamicity is achieved through javascript.
 
 ---
 
@@ -20,4 +20,4 @@ This project has the scope of converting a static web page in a single interacti
 
 * Hide Navbar when client not scrolling after 4second.
 
---
+---
