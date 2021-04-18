@@ -4,7 +4,7 @@ Landing page is the conversion of a static page to a page that allows some sort 
 
 ---
 
-#Starter code taken from udacity [repository](https://github.com/udacity/fend/tree/refresh-2019/projects/landing-page).
+# Starter code taken from udacity [repository](https://github.com/udacity/fend/tree/refresh-2019/projects/landing-page).
 
 This project has the scope of converting a static web page in a single interactive page.
 
